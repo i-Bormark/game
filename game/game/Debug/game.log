@@ -1,0 +1,3 @@
+﻿  game.cpp
+C:\Users\urevi\source\repos\game\game\game.cpp(219,7): warning C4101: h: неиспользованная локальная переменная
+  game.vcxproj -> C:\Users\urevi\source\repos\game\Debug\game.exe
